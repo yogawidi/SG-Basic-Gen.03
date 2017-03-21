@@ -1,6 +1,5 @@
 Soal 1
-
-Diberikan data teks ('Data1.txt'), sensor beberapa kata yang ada pada teks tersebut. Kata-kata yang harus disensor antara lain : 
+Diberikan data teks ('Data1.txt'), sensor beberapa kata yang ada pada teks tersebut :  
 - I
 - and
 - The
