@@ -6,6 +6,7 @@ def readData(data1):
 	with open(data1) as data :
 	    for line in data :
 		    x = line.split()
+<<<<<<< HEAD
 	return x
 
 x = readData(data1)
@@ -21,3 +22,6 @@ for i in x:
 txt = ' '.join(txt)
 
 print (txt)
+=======
+return x
+>>>>>>> 1a2b95e15fae8cc748d0f0e905f60a36e15a9760
