@@ -1,5 +1,5 @@
-data1 = "Data_1.txt"
-data2 = "Data_2.txt"
+data1 = "Data1.txt"
+data2 = "Data2.txt"
 
 def readData(data1):
 	x = []
